@@ -2,7 +2,7 @@
 ;;          secure STX collateralized borrowing with dynamic risk management and
 ;;          automated liquidation mechanisms for the Bitcoin ecosystem.
 ;;
-;; Description: BitVault revolutionizes Bitcoin DeFi by providing a trustless lending
+;; Description: Stacks Lend revolutionizes Bitcoin DeFi by providing a trustless lending
 ;;              infrastructure where users can deposit STX as collateral to borrow
 ;;              against their holdings. The protocol features adaptive collateral
 ;;              ratios, real-time position monitoring, and permissionless liquidations
